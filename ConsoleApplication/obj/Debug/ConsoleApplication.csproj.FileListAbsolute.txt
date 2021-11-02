@@ -1,0 +1,25 @@
+D:\Labs\SPP Labs\Faker\Faker\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+A:\Labs\SppLabs\Faker\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+A:\Labs\SppLabs\Faker\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+A:\Labs\SppLabs\Faker\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+A:\Labs\SppLabs\Faker\ConsoleApplication\bin\Debug\Faker.dll
+A:\Labs\SppLabs\Faker\ConsoleApplication\bin\Debug\Faker.pdb
+A:\Labs\SppLabs\Faker\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+A:\Labs\SppLabs\Faker\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\1 Labs\SPP Labs\Faker\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+A:\Labs\SppLabs\Faker123\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+A:\Labs\SppLabs\Faker123\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+A:\Labs\SppLabs\Faker123\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+A:\Labs\SppLabs\Faker123\ConsoleApplication\bin\Debug\Faker.dll
+A:\Labs\SppLabs\Faker123\ConsoleApplication\bin\Debug\Faker.pdb
+A:\Labs\SppLabs\Faker123\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+A:\Labs\SppLabs\Faker123\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Иван\faker\Faker\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Иван\faker\Faker\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Иван\faker\Faker\ConsoleApplication\bin\Debug\Faker.dll
+C:\Users\Иван\faker\Faker\ConsoleApplication\bin\Debug\Faker.pdb
+C:\Users\Иван\faker\Faker\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Иван\faker\Faker\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Иван\faker\Faker\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CopyComplete
+C:\Users\Иван\faker\Faker\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Иван\faker\Faker\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

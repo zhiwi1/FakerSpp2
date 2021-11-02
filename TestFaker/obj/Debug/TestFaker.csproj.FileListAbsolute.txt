@@ -1,0 +1,16 @@
+C:\Users\Иван\faker\Faker\TestFaker\bin\Debug\TestFaker.dll
+C:\Users\Иван\faker\Faker\TestFaker\bin\Debug\TestFaker.pdb
+C:\Users\Иван\faker\Faker\TestFaker\bin\Debug\ConsoleApplication.exe
+C:\Users\Иван\faker\Faker\TestFaker\bin\Debug\DateTimePlugin.dll
+C:\Users\Иван\faker\Faker\TestFaker\bin\Debug\Faker.dll
+C:\Users\Иван\faker\Faker\TestFaker\bin\Debug\ListPlugin.dll
+C:\Users\Иван\faker\Faker\TestFaker\bin\Debug\nunit.framework.dll
+C:\Users\Иван\faker\Faker\TestFaker\bin\Debug\ConsoleApplication.pdb
+C:\Users\Иван\faker\Faker\TestFaker\bin\Debug\DateTimePlugin.pdb
+C:\Users\Иван\faker\Faker\TestFaker\bin\Debug\Faker.pdb
+C:\Users\Иван\faker\Faker\TestFaker\bin\Debug\ListPlugin.pdb
+C:\Users\Иван\faker\Faker\TestFaker\bin\Debug\nunit.framework.xml
+C:\Users\Иван\faker\Faker\TestFaker\obj\Debug\TestFaker.csproj.AssemblyReference.cache
+C:\Users\Иван\faker\Faker\TestFaker\obj\Debug\TestFaker.csproj.CoreCompileInputs.cache
+C:\Users\Иван\faker\Faker\TestFaker\obj\Debug\TestFaker.dll
+C:\Users\Иван\faker\Faker\TestFaker\obj\Debug\TestFaker.pdb

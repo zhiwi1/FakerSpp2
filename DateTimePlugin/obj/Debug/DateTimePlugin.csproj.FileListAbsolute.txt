@@ -1,0 +1,9 @@
+C:\Users\Иван\faker\Faker\DateTimePlugin\bin\Debug\DateTimePlugin.dll
+C:\Users\Иван\faker\Faker\DateTimePlugin\bin\Debug\DateTimePlugin.pdb
+C:\Users\Иван\faker\Faker\DateTimePlugin\bin\Debug\Faker.dll
+C:\Users\Иван\faker\Faker\DateTimePlugin\bin\Debug\Faker.pdb
+C:\Users\Иван\faker\Faker\DateTimePlugin\obj\Debug\DateTimePlugin.csproj.AssemblyReference.cache
+C:\Users\Иван\faker\Faker\DateTimePlugin\obj\Debug\DateTimePlugin.csproj.CoreCompileInputs.cache
+C:\Users\Иван\faker\Faker\DateTimePlugin\obj\Debug\DateTimePlugin.csproj.CopyComplete
+C:\Users\Иван\faker\Faker\DateTimePlugin\obj\Debug\DateTimePlugin.dll
+C:\Users\Иван\faker\Faker\DateTimePlugin\obj\Debug\DateTimePlugin.pdb

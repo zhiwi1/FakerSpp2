@@ -1,0 +1,28 @@
+D:\Labs\SPP Labs\Faker\Faker\ConsoleApplication\bin\Release\ConsoleApplication.exe
+D:\Labs\SPP Labs\Faker\Faker\ConsoleApplication\bin\Release\ConsoleApplication.pdb
+D:\Labs\SPP Labs\Faker\Faker\ConsoleApplication\bin\Release\Faker.dll
+D:\Labs\SPP Labs\Faker\Faker\ConsoleApplication\bin\Release\Faker.pdb
+D:\Labs\SPP Labs\Faker\Faker\ConsoleApplication\obj\Release\ConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Labs\SPP Labs\Faker\Faker\ConsoleApplication\obj\Release\ConsoleApplication.exe
+D:\Labs\SPP Labs\Faker\Faker\ConsoleApplication\obj\Release\ConsoleApplication.pdb
+A:\Labs\SppLabs\Faker\ConsoleApplication\bin\Release\ConsoleApplication.exe
+A:\Labs\SppLabs\Faker\ConsoleApplication\bin\Release\ConsoleApplication.pdb
+A:\Labs\SppLabs\Faker\ConsoleApplication\bin\Release\Faker.dll
+A:\Labs\SppLabs\Faker\ConsoleApplication\bin\Release\Faker.pdb
+A:\Labs\SppLabs\Faker\ConsoleApplication\obj\Release\ConsoleApplication.csprojResolveAssemblyReference.cache
+A:\Labs\SppLabs\Faker\ConsoleApplication\obj\Release\ConsoleApplication.exe
+A:\Labs\SppLabs\Faker\ConsoleApplication\obj\Release\ConsoleApplication.pdb
+D:\1 Labs\SPP Labs\Faker\ConsoleApplication\bin\Release\ConsoleApplication.exe
+D:\1 Labs\SPP Labs\Faker\ConsoleApplication\bin\Release\ConsoleApplication.pdb
+D:\1 Labs\SPP Labs\Faker\ConsoleApplication\bin\Release\Faker.dll
+D:\1 Labs\SPP Labs\Faker\ConsoleApplication\bin\Release\Faker.pdb
+D:\1 Labs\SPP Labs\Faker\ConsoleApplication\obj\Release\ConsoleApplication.csprojResolveAssemblyReference.cache
+D:\1 Labs\SPP Labs\Faker\ConsoleApplication\obj\Release\ConsoleApplication.exe
+D:\1 Labs\SPP Labs\Faker\ConsoleApplication\obj\Release\ConsoleApplication.pdb
+A:\Labs\SppLabs\Faker123\ConsoleApplication\bin\Release\ConsoleApplication.exe
+A:\Labs\SppLabs\Faker123\ConsoleApplication\bin\Release\ConsoleApplication.pdb
+A:\Labs\SppLabs\Faker123\ConsoleApplication\bin\Release\Faker.dll
+A:\Labs\SppLabs\Faker123\ConsoleApplication\bin\Release\Faker.pdb
+A:\Labs\SppLabs\Faker123\ConsoleApplication\obj\Release\ConsoleApplication.csprojResolveAssemblyReference.cache
+A:\Labs\SppLabs\Faker123\ConsoleApplication\obj\Release\ConsoleApplication.exe
+A:\Labs\SppLabs\Faker123\ConsoleApplication\obj\Release\ConsoleApplication.pdb

@@ -1,0 +1,6 @@
+C:\Users\Иван\faker\Faker\Faker\bin\Debug\Faker.dll
+C:\Users\Иван\faker\Faker\Faker\bin\Debug\Faker.pdb
+C:\Users\Иван\faker\Faker\Faker\obj\Debug\Faker.csproj.AssemblyReference.cache
+C:\Users\Иван\faker\Faker\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
+C:\Users\Иван\faker\Faker\Faker\obj\Debug\Faker.dll
+C:\Users\Иван\faker\Faker\Faker\obj\Debug\Faker.pdb

@@ -1,0 +1,9 @@
+C:\Users\Иван\faker\Faker\ListPlugin\bin\Debug\ListPlugin.dll
+C:\Users\Иван\faker\Faker\ListPlugin\bin\Debug\ListPlugin.pdb
+C:\Users\Иван\faker\Faker\ListPlugin\bin\Debug\Faker.dll
+C:\Users\Иван\faker\Faker\ListPlugin\bin\Debug\Faker.pdb
+C:\Users\Иван\faker\Faker\ListPlugin\obj\Debug\ListPlugin.csproj.AssemblyReference.cache
+C:\Users\Иван\faker\Faker\ListPlugin\obj\Debug\ListPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Иван\faker\Faker\ListPlugin\obj\Debug\ListPlugin.csproj.CopyComplete
+C:\Users\Иван\faker\Faker\ListPlugin\obj\Debug\ListPlugin.dll
+C:\Users\Иван\faker\Faker\ListPlugin\obj\Debug\ListPlugin.pdb
